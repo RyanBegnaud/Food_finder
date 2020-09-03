@@ -1,9 +1,6 @@
 # FoodFinder
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/food_finder`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
+FoodFinder is a gem that allows you to input an area code as well as a specific type of food or a specific restaurant. It will then return to you restaurants near that area 
+code, along with the restaurants: name, address, phone number, rating, type of food served, website, price and review count.
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -19,10 +16,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install food_finder
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
